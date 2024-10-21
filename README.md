@@ -14,6 +14,17 @@ This project is a comprehensive Power BI dashboard designed to visualize and ana
 - **Cross-filtering**: Click on any chart or visual to dynamically filter the data in other visuals, providing an intuitive and detailed analysis experience.
 - **Time-Series Analysis**: Track changes in performance trends over time, identifying patterns in medal counts and athlete dominance across multiple Olympics.
 
+## Dashboard Visuals
+[Home]![olym1](https://github.com/user-attachments/assets/8c93daf6-d53f-42f7-861f-ab4c5c3d7f58)
+[Overview]
+![olym2](https://github.com/user-attachments/assets/9284ff36-ef34-4e40-927c-3e110c77de62)
+[Athletes]
+![olym3](https://github.com/user-attachments/assets/236db866-b727-4ba6-98a6-a4703e3d74d7)
+[Countries]
+![olym4](https://github.com/user-attachments/assets/3cb49e29-ec64-4a4c-ad5e-c262f64e8a19)
+[History]
+![olym5](https://github.com/user-attachments/assets/7a17d14a-03e7-4698-87a5-9d2d897a776e)
+
 ## Data Source
 The dataset used to create this dashboard was sourced from **Kaggle**, a renowned platform offering high-quality datasets. The specific dataset includes historical and real-time data related to the Paris 2024 Olympics, including medal distribution, athlete performance, and participating countries.
 
@@ -87,7 +98,7 @@ Data Integration: The dashboard draws from a unified dataset, allowing for consi
 
 These descriptions provide a technical overview of the key features and data visualizations available on each slide. The goal is to ensure that users understand the purpose of each page and how they can interact with the data to gather insights.
 
-Key Features:
+Other Features:
 
 Participant Metrics: Displays the total number of athletes, with a gender breakdown highlighting male and female participation.
 
