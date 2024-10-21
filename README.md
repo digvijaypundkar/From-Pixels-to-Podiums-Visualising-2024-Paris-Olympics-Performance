@@ -26,3 +26,69 @@ The data was carefully cleaned and transformed using Power Query to ensure accur
 2. **Normalization**: Standardized the data formats, ensuring uniformity in columns such as country codes, event names, and medal types.
 3. **Calculated Columns**: Added calculated columns to enhance the depth of analysis, such as medal counts per capita and medal-winning streaks by countries.
 4. **Aggregation**: Grouped data at multiple levels (e.g., country-wise, event-wise, athlete-wise) to enable multi
+
+Slide 1: Overview Page
+The Overview page serves as a high-level dashboard providing key insights into the entire Olympic event. It is designed to summarize overall statistics, including athlete participation and medal distribution, using clear visual elements for ease of analysis.
+
+Key Highlights Section:
+
+Provides an at-a-glance summary of athlete participation, gender distribution, and medal performance.
+Highlights the most successful country in the tournament.
+Medal Distribution Visualizations:
+
+A set of icon-based counters for total Gold, Silver, and Bronze medals, offering a quick view of the total medal counts.
+Data Breakdown by Country and Gender:
+
+A horizontal bar chart that allows users to compare the total number of medals won by gender across different countries.
+Data Breakdown by Medal Type:
+
+Another horizontal bar chart provides a detailed breakdown by medal type (gold, silver, and bronze) per country, enabling users to distinguish performance per medal category.
+Geographic Map:
+
+An interactive map shows the participating countries and highlights their performance. Users can interact with it to view the top-performing countries by region.
+Slide 2: Athlete Page
+The Athlete page focuses on the breakdown of participants, categorized by gender and age. It offers a more detailed analysis of athlete demographics and medal achievements.
+
+Athletes by Age and Gender:
+A vertical bar chart that categorizes the total number of athletes based on age group (e.g., 21-25, 26-30) and gender (male, female).
+Athlete Count by Country and Gender:
+Another horizontal bar chart visualizes the athlete participation per country, separated by gender, enabling users to analyze participation disparities or trends.
+Medal Breakdown by Country and Type:
+A bar chart details the number of medals (bronze, silver, and gold) each country has earned, with a specific emphasis on gender distribution. This chart is interactive, providing the option to dive deeper into individual country performance.
+Medal Statistics Sidebar:
+A sidebar provides a concise summary of the total number of gold, silver, and bronze medals won by both male and female athletes. This section uses icons to indicate the type of medal, providing a visual aid for the distribution.
+Slide 3: Countries Page
+This page delivers a geographic overview of the countries participating in the tournament, along with specific country-based medal statistics.
+
+Country Overview Section:
+A map visualizes all participating countries, shaded according to their performance (number of medals won). This interactive map allows users to select individual countries to view their detailed statistics.
+Key Highlights:
+Provides a textual summary of overall tournament participation, along with key country-level metrics, such as total athletes, gender breakdown, and top-performing countries.
+Country Selection Panel:
+A scrollable panel on the left side allows users to select a country from a list to instantly view its medal and athlete participation data. This list provides a country’s flag and name, making navigation simple and intuitive.
+Slide 4: History Page
+The History page categorizes Olympic performance across multiple dimensions, such as year and country. It enables users to explore historical data and trends over time.
+
+Categorization by Year:
+
+Users can filter the data based on specific Olympic events or time frames, allowing for an in-depth analysis of how a country’s performance has evolved over different years.
+Performance by Country:
+
+A drop-down menu or filter allows users to select a country and see its historical performance across various tournaments. Medal counts and athlete participation are organized by year, giving insight into trends and changes in performance.
+Additional Filters and Data Views:
+
+This page may include advanced filtering options, such as viewing by sport or gender, allowing for deeper customization and analysis of historical data.
+General Features Across Slides:
+Interactivity: Most charts and maps are interactive, allowing for dynamic filtering by country, gender, medal type, and year. Hovering over a particular data point may provide additional insights.
+
+Responsive Design: The dashboard is designed to be responsive and adaptable to different screen sizes, ensuring usability on various devices.
+
+Data Integration: The dashboard draws from a unified dataset, allowing for consistent and synchronized data across all slides. This ensures that changes in one filter will update all related visualizations, maintaining a cohesive and accurate analysis environment.
+
+These descriptions provide a technical overview of the key features and data visualizations available on each slide. The goal is to ensure that users understand the purpose of each page and how they can interact with the data to gather insights.
+
+
+
+
+
+
