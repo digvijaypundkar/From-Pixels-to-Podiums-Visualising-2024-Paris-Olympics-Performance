@@ -1,4 +1,6 @@
 # Paris-Olympics-2024-Dashboard
+![900px-Olympic_flag svg_](https://github.com/user-attachments/assets/b29529ad-1df8-4e9f-9496-fc359dbdd334)
+
 Personal Project - Paris Olympics 2024 Data Visualization using PowerBI, Excel and Python
 
 Description :- "An interactive Power BI dashboard offering detailed analysis and visual insights on athletes, medal standings, and events for the Paris Olympics 2024."
