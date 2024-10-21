@@ -17,7 +17,7 @@ This project is a comprehensive Power BI dashboard designed to visualize and ana
 ## Data Source
 The dataset used to create this dashboard was sourced from **Kaggle**, a renowned platform offering high-quality datasets. The specific dataset includes historical and real-time data related to the Paris 2024 Olympics, including medal distribution, athlete performance, and participating countries.
 
-Dataset link: [Kaggle - Paris Olympics 2024 Dataset](#)
+Dataset link: [Kaggle - Paris Olympics 2024 Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data)
 
 The data was carefully cleaned and transformed using Power Query to ensure accuracy and relevance for dashboard visualizations.
 
