@@ -16,7 +16,7 @@ This project is a comprehensive Power BI dashboard designed to visualize and ana
 - **Cross-filtering**: Click on any chart or visual to dynamically filter the data in other visuals, providing an intuitive and detailed analysis experience.
 - **Time-Series Analysis**: Track changes in performance trends over time, identifying patterns in medal counts and athlete dominance across multiple Olympics.
 
-## Dashboard Visuals
+## PowerBI Dashboard Visuals
 [Home]![olym1](https://github.com/user-attachments/assets/8c93daf6-d53f-42f7-861f-ab4c5c3d7f58)
 [Overview]
 ![olym2](https://github.com/user-attachments/assets/9284ff36-ef34-4e40-927c-3e110c77de62)
