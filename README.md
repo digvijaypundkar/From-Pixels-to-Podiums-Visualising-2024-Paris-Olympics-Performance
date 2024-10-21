@@ -87,7 +87,19 @@ Data Integration: The dashboard draws from a unified dataset, allowing for consi
 
 These descriptions provide a technical overview of the key features and data visualizations available on each slide. The goal is to ensure that users understand the purpose of each page and how they can interact with the data to gather insights.
 
+Key Features:
 
+Participant Metrics: Displays the total number of athletes, with a gender breakdown highlighting male and female participation.
+
+Medal Distribution: Visualises the count of gold, silver, and bronze medals by country and gender, identifying top-performing nations. It also includes the total number of countries that have won medals.
+
+Interactive Mapping: Features a dynamic map that showcases medals won by each country, alongside essential statistics such as total medals, teams, and athletes for every nation.
+
+Athlete Demographics: Provides insights into the age and gender of athletes, allowing for a nuanced understanding of participant diversity across countries.
+
+Historical Analysis: Includes historical Olympic data from 1954 to 2012, presented in bar graphs that summarise gold, silver, and bronze medal counts for each country, facilitating comparisons over time.
+
+This dashboard serves as a vital tool for stakeholders, offering real-time insights into Olympic performance and trends, fostering a deeper understanding of trends and achievements in global sports and enhancing the overall viewing and analytical experience of the Paris 2024 Games.
 
 
 
