@@ -17,7 +17,8 @@ This project is a comprehensive Power BI dashboard designed to visualize and ana
 - **Time-Series Analysis**: Track changes in performance trends over time, identifying patterns in medal counts and athlete dominance across multiple Olympics.
 
 ## PowerBI Dashboard Visuals
-[Home]![olym1](https://github.com/user-attachments/assets/8c93daf6-d53f-42f7-861f-ab4c5c3d7f58)
+[Home]
+![paris olympics title](https://github.com/user-attachments/assets/527292de-7451-4db0-b325-f349fe86b4bf)
 [Overview]
 ![olym2](https://github.com/user-attachments/assets/9284ff36-ef34-4e40-927c-3e110c77de62)
 [Athletes]
