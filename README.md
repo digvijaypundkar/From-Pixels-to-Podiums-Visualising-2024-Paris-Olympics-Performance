@@ -1,4 +1,4 @@
-# Paris-Olympics-2024-Dashboard
+# From Pixels to Podiums: Visualizing 2024 Paris Olympics Performance
 ![900px-Olympic_flag svg_](https://github.com/user-attachments/assets/b29529ad-1df8-4e9f-9496-fc359dbdd334)
 
 Personal Project - Paris Olympics 2024 Data Visualization using PowerBI, Excel and Python
